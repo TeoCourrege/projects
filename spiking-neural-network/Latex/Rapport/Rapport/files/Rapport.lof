@@ -1,0 +1,17 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces SNN input}}{4}{figure.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces SNN output}}{4}{figure.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Planning of the full time period}}{6}{figure.3}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Computational tools}}{8}{figure.4}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Structure and small content of the csv file containing the links to the audio files}}{9}{figure.5}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Comparison of different neuron model's complexity and biological similarity}}{12}{figure.6}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Discrete Fourier Transform}}{13}{figure.7}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Spectrogram of a slowly ascending piano arpeggio, we can notice the new notes with higher frequencies appearing over time, where the image is brighter}}{14}{figure.8}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Mel Spectrogram, one of the main differences is that the bands corresponding to a note of the arpeggio are closer than in the spectrogram, which represents better the human auditory system}}{15}{figure.9}%
+\contentsline {figure}{\numberline {10}{\ignorespaces MFCC}}{16}{figure.10}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Original VS MFCC reconstruction}}{17}{figure.11}%
+\contentsline {figure}{\numberline {12}{\ignorespaces MFCC VS Rate reconstruction}}{17}{figure.12}%
+\contentsline {figure}{\numberline {13}{\ignorespaces MFCC VS Latency reconstruction}}{17}{figure.13}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Original Audio}}{19}{figure.14}%
+\contentsline {figure}{\numberline {15}{\ignorespaces MFCC Reconstruction}}{19}{figure.15}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Latency Reconstruction}}{20}{figure.16}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Rate Reconstruction}}{20}{figure.17}%
